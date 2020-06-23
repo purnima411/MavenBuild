@@ -1,3 +1,4 @@
+//adding this line to check maven build config in jenkins - purnima
 // adding this line to check the jenkins build
 HelloWorld Servlet example with corresponding Dockerfile
 
